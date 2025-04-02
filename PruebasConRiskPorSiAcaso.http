@@ -1,0 +1,11 @@
+### GET 
+GET http://localhost:3000/products
+Content-Type: application/json
+
+### Searchh by ID
+GET http://localhost:3000/products/1
+Content-Type: application/json
+
+### POST of one product (create a new resource)
+POST http://localhost:3000/products
+Content-Type: application/json
