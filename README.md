@@ -4,6 +4,9 @@ Paagina De Despligue: https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.ve
 Prueba de las peticiones http
 ![image](https://github.com/user-attachments/assets/0d33ab6a-2ac4-44f3-bab9-54d20ed37aba)
  y en el despliegue: 
+https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.vercel.app/products/ Devuelve los productos
+https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.vercel.app/products/1 devuelve el producto especifico por su id
+ 
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)
