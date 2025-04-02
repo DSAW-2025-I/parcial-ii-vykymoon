@@ -1,0 +1,22 @@
+### GET 
+GET http://localhost:3000/products
+Content-Type: application/json
+
+### Searchh by ID
+GET http://localhost:3000/products/1
+Content-Type: application/json
+
+### POST of one product (create a new resource)
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "id": 4,
+  "name": "Monitor",
+  "price": 150
+}
+
+GET http://localhost:3000/products 
+
+### The product was created successfully, so we can see it in the list of products
+### but u can only POST one time because a resource was created, if u try to POST again with the same data, it will throw an error
