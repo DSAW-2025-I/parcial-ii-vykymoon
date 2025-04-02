@@ -1,10 +1,15 @@
 Estudiante: Victor Luna Mejia / 0000360773 
-Pagina De Despligue: https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.vercel.app/
+Pagina De Despligue sin ninguna peticion: https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.vercel.app/
 
 Prueba de las peticiones http local para Comprobar que POST sirve
 ![image](https://github.com/user-attachments/assets/0d33ab6a-2ac4-44f3-bab9-54d20ed37aba)
+
  y en el despliegue: 
+
+ 
 https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.vercel.app/products/ Devuelve los productos
+
+
 https://parcial-ii-vykymoon-fbq2s8mx8-vykymuns-projects.vercel.app/products/1 devuelve el producto especifico por su id
  
 
